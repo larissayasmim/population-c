@@ -19,8 +19,7 @@
 <br>
 
 ## :memo: &nbsp;&nbsp; Brief
-<p>The Caesar program consists of encrypted messages. To encrypt, it relies on displacement the letters according to the user's input value.
-This input value called a key, which must be entered in the command line.</p>
+<p>based on a population of n llamas which per year are born n/3 new and n/4 die, the program<br>determines how long it takes to reach a certain size. Calculating the number of years required <br>for it to grow from initial size to final size. For this, it asks the user for an initial population size <br>(greater than nine) and a final size (greater than or equal to the initial population size).</p>
 
 
 <br>
