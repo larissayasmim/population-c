@@ -19,7 +19,7 @@
 <br>
 
 ## :memo: &nbsp;&nbsp; Brief
-<p>based on a population of n llamas which per year are born n/3 new and n/4 die, the program<br>determines how long it takes to reach a certain size. Calculating the number of years required <br>for it to grow from initial size to final size. For this, it asks the user for an initial population size <br>(greater than nine) and a final size (greater than or equal to the initial population size).</p>
+<p>Based on a population of n llamas which per year are born n/3 new and n/4 die, the program<br>determines how long it takes to reach a certain size. Calculating the number of years required <br>for it to grow from initial size to final size. For this, it asks the user for an initial population size <br>(greater than or equal nine) and a final size (greater than or equal to the initial population size).</p>
 
 
 <br>
@@ -30,16 +30,16 @@
 - Prompts user for final population size
 <br>
 
-## :llama: &nbsp; Print the encrypted text
-<img align="center" height="auto" width="600" alt="Imprimindo o texto criptografado" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665781296/Caesar/caesar1_y9wydo.png"/>
+## :llama: &nbsp; Valid input
+<img align="center" height="auto" width="700" alt="Foto de entrada válida no programa" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665806909/Population/population1_vxmfxs.png"/>
 <br>
 
-## :llama: &nbsp; Invalid input value: no value or more than one value as key
-<img align="center" height="auto" width="600" alt="Imprimindo o texto criptografado" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665781297/Caesar/caesar2_r6ntuk.png"/>
+## :llama: &nbsp; Invalid input
+<img align="center" height="auto" width="700" alt="Foto de entrada inválida no programa" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665798546/Population/population2_wgwc3s.png"/>
 <br>
 
 ## :llama: &nbsp; Execution
-<img align="center" height="auto" width="600" alt="Imprimindo o texto criptografado" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665782288/Caesar/caesarvideo10_online-video-cutter.com_h4m1qs.gif"/>
+<img align="center" height="auto" width="700" alt="Demonstração em gif do programa" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665807492/Population/populationvideo_online-video-cutter.com_c7l8zz.gif"/>
 <br>
 
 ## :computer:  &nbsp; Technologies
@@ -58,43 +58,3 @@ This project is under the MIT license. See the [LICENSE](https://github.com/lari
 ---
 
 **[Talk to me :smile:&nbsp;:thumbsup:](https://www.linkedin.com/in/larissayasmimpa)** <span>&#x1f1e7;&#x1f1f7;</span>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
